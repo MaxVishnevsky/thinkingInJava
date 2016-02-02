@@ -15,6 +15,8 @@ public class Fibonacci {
         }
     }
 
+
+
     public static void printFibonacci (int var) {
         calcFibonacci(var);
         for (Integer i : arr) {
